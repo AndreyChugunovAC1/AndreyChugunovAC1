@@ -6,6 +6,7 @@ A bit programmer from the biggest country.
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugushik@gmail.com) 
 
 ### 🧌 list of technologies known by me:
+![Nim](https://img.shields.io/badge/Nim-FFE953.svg?logo=nim&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
